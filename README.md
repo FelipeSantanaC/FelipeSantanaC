@@ -1,4 +1,4 @@
-### Olá, Eu sou o Felipe Santana!
+### Olá, eu sou o Felipe Santana!
 
 <div>
   <a href="https://github.com/FelipeSantanaC">
